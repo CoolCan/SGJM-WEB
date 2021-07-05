@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/app/scenes/Welcome.fire",orientation:"portrait",jsList:[],bundleVers:{internal:"803f8",resources:"361f8",main:"1a2ae"}};
